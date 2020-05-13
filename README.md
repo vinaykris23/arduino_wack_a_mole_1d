@@ -1,13 +1,12 @@
 # arduino_wack_a_mole_1d
 
-Design Document for Wack-A-Mole 1D
 
 Problem Statement:
 	To design and implement a game using Arduino.
 	Game: Wack-A-Mole 1D
-	Description:
-Connect a disc (cardboard or similar) to a servo motor. Stick or draw a symbol onto one part of the disc. Another cardboard or a box around this installation only allows to see one small segment.
 
+Description:
+Connect a disc (cardboard or similar) to a servo motor. Stick or draw a symbol onto one part of the disc. Another cardboard or a box around this installation only allows to see one small segment.
 The servo motor is randomly moving the disc around. Whenever the player is able to see the symbol, he/she has to press a button. Think of a level and points system for this game.
 
 Design:
