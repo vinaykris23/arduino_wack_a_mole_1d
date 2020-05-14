@@ -10,7 +10,6 @@ Hardware:
 8. Resistor - 1 (220Ω - 1kΩ)
 9. Beadboard - 1
 10. External Power Supplier (HLK-PM01) - 1
-11. Cardboard Boxes - 2
 
 Software:
 Arduino IDE
