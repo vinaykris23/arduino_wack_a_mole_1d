@@ -1,6 +1,4 @@
-# Requirements 
-
-## Hardware:
+Hardware:
 
 1. Arduino Uno Board - 1
 2. USB cable - 1
@@ -14,6 +12,6 @@
 10. External Power Supplier (HLK-PM01) - 1
 11. Cardboard Boxes - 2
 
-## Software:
+Software:
 Arduino IDE
 
