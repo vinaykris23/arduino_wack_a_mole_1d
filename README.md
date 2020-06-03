@@ -7,8 +7,9 @@
 
 ## Description:
 
-Connect a disc (cardboard or similar) to a servo motor. Stick or draw a symbol onto one part of the disc. Another cardboard or a box around this installation only allows to see one small segment.
-The servo motor is randomly moving the disc around. Whenever the player is able to see the symbol, he/she has to press a button. Think of a level and points system for this game.
+Create a Wack-A-Mole Game on arduino uno with the help of 4 LEDs and 4 buttons. 
+The player starts the game by pressing a button and the LEDs start blinking and based on the each LED a button is paired and hitting the button inside a specific time frame rewards the player with some points and if he missed the buttons or presses the  wrong one he will get a strike. A total of 5 can be accumulated before the game finishes.
+
 
 ## Design:
 
