@@ -12,6 +12,7 @@ The player starts the game by pressing a button.
 The LEDs start blinking in random order.
 When the LED is ON and if the respective button is pressed within a specified time frame, the player scores points.
 If the player fails to press the button within a specific time frame, the player gets a strike.
+Every 10 seconds the difficulty level (speed) of the game increases.
 A total of 5 strikes means the game is finished.
 
 
@@ -41,6 +42,8 @@ A total of 5 strikes means the game is finished.
 
 ## Working Setup
 
-1. Download the code and upload the game to the arduino. <br/>
-2. Open the Serial Monitor to view the score of the game.<br/>
-3. Enjoy playing the game!!! <br/>
+1. Setup Arduino connections with the hardware as per the Circuit Diagram given.<br/>
+2. Place and connect Buttons and LED's to the respective digital pins.<br/>
+3. Download the code and upload the game to the arduino. <br/>
+4. Open the Serial Monitor to view the score of the game.<br/>
+5. Enjoy playing the game!!! <br/>
