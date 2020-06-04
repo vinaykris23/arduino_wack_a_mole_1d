@@ -34,10 +34,15 @@ The player starts the game by pressing a button and the LEDs start blinking and 
 ## Variables Used 
 | Variables Used | Description |
 | --- | --- |
-|  2 | Yellow Button |
-|  3 | Yellow LED |
-|  4 | Red Button |
-|  5 | Red LED |
+|  score | Yellow Button |
+|  strike | Yellow LED |
+|  points | Red Button |
+|  lifeSpan | Red LED |
+|  		|    |
+
 
 ## Working Setup
 
+1.Download the code and upload the game to the arduino.
+2.Open the Serial Monitor for viewing the score of the game.
+3.Enjoy!!!
