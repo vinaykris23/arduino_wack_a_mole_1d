@@ -10,7 +10,7 @@
 Create a Wack-A-Mole Game on arduino uno with the help of 4 LEDs and 4 buttons. 
 The player starts the game by pressing a button. 
 The LEDs start blinking in random order.
-When the LED is on and if the respective button is pressed within a specified time frame, the player scores points.
+When the LED is ON and if the respective button is pressed within a specified time frame, the player scores points.
 If the player fails to press the button within a specific time frame, the player gets a strike.
 A total of 5 strikes means the game is finished.
 
@@ -41,6 +41,6 @@ A total of 5 strikes means the game is finished.
 
 ## Working Setup
 
-1.Download the code and upload the game to the arduino.
+1.Download the code and upload the game to the arduino. \n
 2.Open the Serial Monitor for viewing the score of the game.
 3.Enjoy playing the game!!!
