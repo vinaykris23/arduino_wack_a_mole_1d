@@ -3,13 +3,11 @@ Hardware:
 1. Arduino Uno Board - 1
 2. USB cable - 1
 3. Jumper wires - as required.
-4. Servo Motor - 2
-5. LED - 1
-6. Button - 1
-7. Buzzer - 1
-8. Resistor - 1 (220Ω - 1kΩ)
+4. LED - 4
+5. Button - 4
+6. Buzzer - 1
+8. Resistor - 4 (220Ω - 1kΩ)
 9. Beadboard - 1
-10. External Power Supplier (HLK-PM01) - 1
 
 Software:
 Arduino IDE
