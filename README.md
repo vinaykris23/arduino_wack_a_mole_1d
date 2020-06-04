@@ -14,6 +14,7 @@ When the LED is ON and if the respective button is pressed within a specified ti
 If the player fails to press the button within a specific time frame, the player gets a strike.
 Every 10 seconds the difficulty level (speed) of the game increases.
 A total of 5 strikes means the game is finished.
+All LED's turn ON and a special tune is played for GAME OVER!
 
 
 ## Pin Setup
