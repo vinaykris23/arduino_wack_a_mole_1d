@@ -21,4 +21,10 @@ The player starts the game by pressing a button and the LEDs start blinking and 
 | Arduino Pin | Description |
 | --- | --- |
 |  2 | Yellow Button |
-| 3 | Yellow LED |
+|  3 | Yellow LED |
+|  4 | Red Button |
+|  5 | Red LED |
+| 10 | Pink Button |
+| 11 | Pink LED |
+| 12 | Green Button |
+| 13 | Green LED |
