@@ -41,6 +41,6 @@ A total of 5 strikes means the game is finished.
 
 ## Working Setup
 
-1.Download the code and upload the game to the arduino. <br/>
-2.Open the Serial Monitor to view the score of the game.<br/>
-3.Enjoy playing the game!!! <br/>
+1. Download the code and upload the game to the arduino. <br/>
+2. Open the Serial Monitor to view the score of the game.<br/>
+3. Enjoy playing the game!!! <br/>
