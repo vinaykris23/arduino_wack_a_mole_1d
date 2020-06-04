@@ -15,10 +15,6 @@ If the player fails to press the button within a specific time frame, the player
 A total of 5 strikes means the game is finished.
 
 
-## Design:
-
-
-
 ## Pin Setup
 
 | Arduino Pin | Description |
