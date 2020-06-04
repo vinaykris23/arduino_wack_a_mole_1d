@@ -16,7 +16,7 @@ The player starts the game by pressing a button and the LEDs start blinking and 
 
 
 
-## Hardware Hook-up
+## Pin Setup
 
 | Arduino Pin | Description |
 | --- | --- |
@@ -28,3 +28,16 @@ The player starts the game by pressing a button and the LEDs start blinking and 
 | 11 | Pink LED |
 | 12 | Green Button |
 | 13 | Green LED |
+| A5 | Buzzer |
+
+
+## Variables Used 
+| Variables Used | Description |
+| --- | --- |
+|  2 | Yellow Button |
+|  3 | Yellow LED |
+|  4 | Red Button |
+|  5 | Red LED |
+
+## Working Setup
+
