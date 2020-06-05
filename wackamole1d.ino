@@ -36,7 +36,7 @@ int tones[] = {587, 784, 880, 988, 988, 988, 988, 988, 988, 988, 932, 988, 784,
                880, 988, 784, 784, 784, 784
               };
 
-//Serial Monitor display functions
+//Serial Monitor display functions for Strike and Score
 void displayStrike() {
   Serial.println("");
   Serial.println("STRIKE ");
@@ -120,6 +120,7 @@ Mole greenMole(greenButton, greenLED);
 Mole redMole(redButton, redLED);
 Mole yellowMole(yellowButton, yellowLED);
 
+//game difficulty updated such that each mole appears faster 
 void updateGameDifficulty() {
   if (gameTime > updateGame + getFaster) {
     lifeSpan *= 0.8;
